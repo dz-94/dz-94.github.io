@@ -10,7 +10,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9gth">№629</td>
+    <td>№629</td>
     <td class="tg-9gth">№1222-1224,1226</td>
   </tr>
 </tbody>
