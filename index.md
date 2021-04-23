@@ -1,6 +1,5 @@
 # Домашнее задание:
 <br/>
-</style>
 <table class="tg">
 <thead>
   <tr>
