@@ -4,7 +4,7 @@
 <thead>
   <tr>
     <th><span style="font-weight:bold">Русский</span></th>
-    <th ><span style="font-weight:bold">Математика</span></th>
+    <th><span style="font-weight:bold">Математика</span></th>
   </tr>
 </thead>
 <tbody>
